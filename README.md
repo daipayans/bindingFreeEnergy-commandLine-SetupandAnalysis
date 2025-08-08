@@ -12,8 +12,6 @@ __Origninal BFEE2 references:__
 
 
 
-__BFEE2 GitHub resources:__
+__BFEE2 GitHub resource:__
 
 HTTPS: https://github.com/fhh2626/BFEE2.git
-
-SSH: git@github.com:fhh2626/BFEE2.git 
